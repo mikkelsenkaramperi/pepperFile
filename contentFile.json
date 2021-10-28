@@ -1,0 +1,9 @@
+{
+	"bikeQ1": {
+		"text": "Why do you like to bike?"
+	},
+	"bikeA1": {
+		"text": "Because it's healthy",
+		"page": "index.html"
+	}
+}
